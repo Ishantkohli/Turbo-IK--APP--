@@ -1,0 +1,6 @@
+{
+  "latestVersionName": "1.5.6",
+  "latestVersionCode": 56,
+  "changelog": "• Compressed compiled assets (under 22MB).\n• Implemented active process sweeping indicators.\n• Patched cryptographic sector validation drivers.",
+  "apkDownloadUrl": "https://github.com/Ishantkohli/My-App-Beta-Version-/releases/latest/download/app-release.apk"
+}
