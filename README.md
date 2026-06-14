@@ -39,4 +39,4 @@ To solve common email or host upload limits (e.g. keeping files as small as poss
 
 ## 📄 License & Terms
 
-Licensed under the [MIT License](LICENSE). Designed and built with ❤️ by Ishant Kohli.
+Licensed under the [MIT License](LICENSE). Designed and built with ❤️ by Ishant Kohli & Google AI. 
